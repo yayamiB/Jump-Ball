@@ -1,0 +1,17 @@
+BackgroundMusic.mp3
+BreakBrick.mp3
+MenuBackground.png
+Montserrat-Bold.ttf
+blackout_full.png
+blackout_middle.png
+blackout_top.png
+button_background_long.png
+button_background_short.png
+button_background_short_MaxHp.png
+button_background_short_MediumHp.png
+damage.mp3
+emptyball-Photoroom.png
+levelfinish.mp3
+libgdx.png
+life.png
+pause_icon.png
